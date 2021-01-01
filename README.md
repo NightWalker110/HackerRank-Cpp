@@ -1,1 +1,1 @@
-# HackerRank-C-
+# HackerRank-C++
