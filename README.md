@@ -1,4 +1,4 @@
 # HackerRank-C++
 
 
-mn
+m
