@@ -1,6 +1,3 @@
 # HackerRank-C++
 
 
-
-
-r
