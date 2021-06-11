@@ -1,4 +1,4 @@
 # HackerRank-C++
 
 
-tyh
+ty
